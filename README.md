@@ -8,6 +8,19 @@ Have fun and take care,
 Gianpietro
 
 
+_______________________________________________________
+
+I studied at:
+- University of Trento
+- Politecnico di Torino
+
+Languages I progam in:
+- Python
+- MATLAB
+- Arduino
+- C++ (just the basics)
+
+
 <!--
 **gbattocletti/gbattocletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
