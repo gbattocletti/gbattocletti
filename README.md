@@ -1,7 +1,7 @@
 ### Hi there 👋
-Welcome to my GitHub. Here you can find some projects done during my university career, plus some side project I do with my friends. I am a Mechatronic Engineer with some background in automation, embedded systems and Artificial Intelligence. I am _not_ a programmer, so the code you find here could not be the most beautiful you have ever seen. But, for sure, it works!
+Welcome to my GitHub. Here you can find some projects done during my university career, plus some side project I do with my friends. I am a Mechatronic Engineer with some background in automation, embedded systems and Artificial Intelligence. I am _not_ a programmer, so the code you find here isn't probably the most beautiful you have ever seen. But, for sure, it works!
 
-At the moment, most of my projects are under the shared profile @gbattocletti-riccardoUrb.
+At the moment, most of my projects are under the shared profile @gbattocletti-riccardoUrb (https://github.com/gbattocletti-riccardoUrb).
 
 Have fun and take care,
 Gianpietro
