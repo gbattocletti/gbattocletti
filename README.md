@@ -4,7 +4,6 @@ Welcome to my GitHub. I am a Mechatronic Engineer with some background in automa
 At the moment, most of my projects are under the shared profile @gbattocletti-riccardoUrb (https://github.com/gbattocletti-riccardoUrb).
 
 Have fun and take care,
-
 Gianpietro
 
 
