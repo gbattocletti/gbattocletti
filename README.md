@@ -1,7 +1,13 @@
 ### Hi there 👋
-Welcome to my GitHub. I am a Mechatronic Engineer with some background in automation, embedded systems and Artificial Intelligence. Here you can find some projects done during my university career, plus some side project I do with my friends.
+Welcome to my GitHub. I am a PhD student in learning-based control for multi-agent systems with a background in automation, robotics and control. Here you can find projects done during my university career, plus some side projects.
 
-At the moment, most of my projects are under the shared profile @gbattocletti-riccardoUrb (https://github.com/gbattocletti-riccardoUrb).
+I am currently working at Delft Center for Systems and Control (DCSC), TU Delft.
+
+I studied at:
+- University of Trento
+- Politecnico di Torino
+
+You can find some of my projects under the shared profile @gbattocletti-riccardoUrb (https://github.com/gbattocletti-riccardoUrb).
 
 Have fun and take care,
 
@@ -10,10 +16,6 @@ Gianpietro
 
 
 <!--
-
-I studied at:
-- University of Trento
-- Politecnico di Torino
 
 Languages I progam in:
 - Python
@@ -30,7 +32,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
