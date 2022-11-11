@@ -3,10 +3,6 @@ Welcome to my GitHub. I am a PhD student in learning-based control for multi-age
 
 I am currently working at Delft Center for Systems and Control (DCSC), TU Delft.
 
-I studied at:
-- University of Trento
-- Politecnico di Torino
-
 You can find some of my projects under the shared profile @gbattocletti-riccardoUrb (https://github.com/gbattocletti-riccardoUrb).
 
 Have fun and take care,
