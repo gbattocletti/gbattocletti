@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 Welcome to my GitHub. I am a PhD student in learning-based control for multi-agent systems with a background in automation, robotics and control. Here you can find projects done during my university career, plus some side projects.
 
@@ -11,7 +12,7 @@ Gianpietro
 
 
 
-<!--
+
 
 Languages I progam in:
 - Python
